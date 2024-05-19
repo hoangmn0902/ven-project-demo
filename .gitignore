@@ -25,6 +25,8 @@ wp-config.php
 
 # Example plugin
 /wp-content/plugins/hello.php
+/wp-content/plugins/akismet/
+/wp-content/plugins/woocommerce/
 
 # Uploads
 /wp-content/uploads/
@@ -34,6 +36,9 @@ wp-config.php
 
 # htaccess
 /.htaccess
+
+#other
+.idea/
 
 # All plugins
 #
