@@ -100,7 +100,7 @@ class VEN_Woocommerce_Sync {
 	}
 
 	/**
-	 * bulk action handler
+	 * show admin notices
 	 */
 	public function bulk_action_notices() {
 	    if (!empty($_REQUEST[ 'success_items' ]) ):
